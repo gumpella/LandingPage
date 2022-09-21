@@ -1,8 +1,3 @@
-# LandingPage.github.io
+This is a webpage created with GitHub CoPilot and published using GitHub Pages
 
-This is a project to demonstrate the following skills :
-
-HTML
-CSS
-GitHub CoPilot
-GitHub
+Webpage is designed using Html and Css in Visual Studio Code.
